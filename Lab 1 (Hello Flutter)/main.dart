@@ -9,7 +9,7 @@ void main() {
         style: TextStyle (
             color: Colors.amber,
 fontSize: 30,
-fontWeight: FontWeight.bold
+fontWeight: FontWeight.bold 
         ),
       ),
     ),
